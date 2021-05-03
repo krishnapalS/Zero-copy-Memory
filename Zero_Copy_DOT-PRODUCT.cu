@@ -137,7 +137,7 @@ return elapsedTime;
 }
        
        
-int main( void ) 
+int main() 
 {
   cudaDeviceProp prop;
   int whichDevice;
